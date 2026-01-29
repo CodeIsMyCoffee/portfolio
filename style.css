@@ -27,3 +27,6 @@ p {
     text-align:center;
     background-color:orange;
 }
+.mainav > button {
+ color:red;
+}
