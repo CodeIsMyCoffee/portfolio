@@ -1,7 +1,7 @@
 h1, h2, h3, h4, h5, h6, p {
     color:rgb(255, 255, 255);
 }
-h1, h2 {
+h1, h2, h3 {
     font-family:Lucida Handwriting, cursive;
 }
 .title {
@@ -50,6 +50,9 @@ font-size:60px;
 width:100vw;
 margin:0; }
 h2 {
+    text-align:center;
+}
+h3 {
     text-align:center;
 }
 /*Cheese Burger*\
