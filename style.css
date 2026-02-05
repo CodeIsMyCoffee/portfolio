@@ -59,5 +59,14 @@ h2 {
 h3 {
     text-align:center;
 }
-
+textarea {
+  background-color: #410000;
+  width: 95%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  color:white;
+  text-align:center;
+  font-size:40px;
+}
 /*Cheese Burger*\
