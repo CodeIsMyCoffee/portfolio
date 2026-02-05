@@ -2,6 +2,9 @@ h1, h2, h3, h4, h5, h6, p {
     color:rgb(255, 255, 255);
         text-align:center;
 }
+h1, h2 {
+    font-family:Lucida Handwriting, cursive;
+}
 .title {
 text-align:center;
 font-size:70px;
@@ -34,6 +37,7 @@ button {
  font-size:50px;
  margin:0;
  border:0;
+    font-family:Lucida Handwriting, cursive;
 }
 button:hover {
  background-color:rgb(255, 165, 63);
